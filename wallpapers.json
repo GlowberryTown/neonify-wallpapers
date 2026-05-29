@@ -1,0 +1,4507 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-29T00:57:56.342510",
+  "total": 500,
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Neon Dream 1",
+      "category": "Anime",
+      "image": "https://glowberrytown.github.io/neonify-wallpapers/Anime%201.jpeg",
+      "downloads": 873,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 2,
+      "title": "Cyber Girl 2",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-2/1080/2340",
+      "downloads": 946,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "title": "Starlight 3",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-3/1080/2340",
+      "downloads": 1019,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "title": "Moon Prism 4",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-4/1080/2340",
+      "downloads": 1092,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "title": "Sakura Glow 5",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-5/1080/2340",
+      "downloads": 1165,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 6,
+      "title": "Neon Dream 6",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-6/1080/2340",
+      "downloads": 1238,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "title": "Cyber Girl 7",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-7/1080/2340",
+      "downloads": 1311,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 8,
+      "title": "Starlight 8",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-8/1080/2340",
+      "downloads": 1384,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "title": "Moon Prism 9",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-9/1080/2340",
+      "downloads": 1457,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 10,
+      "title": "Sakura Glow 10",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-10/1080/2340",
+      "downloads": 1530,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 11,
+      "title": "Neon Dream 11",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-11/1080/2340",
+      "downloads": 1603,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 12,
+      "title": "Cyber Girl 12",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-12/1080/2340",
+      "downloads": 1676,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 13,
+      "title": "Starlight 13",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-13/1080/2340",
+      "downloads": 1749,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 14,
+      "title": "Moon Prism 14",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-14/1080/2340",
+      "downloads": 1822,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 15,
+      "title": "Sakura Glow 15",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-15/1080/2340",
+      "downloads": 1895,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 16,
+      "title": "Neon Dream 16",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-16/1080/2340",
+      "downloads": 1968,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 17,
+      "title": "Cyber Girl 17",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-17/1080/2340",
+      "downloads": 2041,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 18,
+      "title": "Starlight 18",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-18/1080/2340",
+      "downloads": 2114,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 19,
+      "title": "Moon Prism 19",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-19/1080/2340",
+      "downloads": 2187,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 20,
+      "title": "Sakura Glow 20",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-20/1080/2340",
+      "downloads": 2260,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 21,
+      "title": "Neon Dream 21",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-21/1080/2340",
+      "downloads": 2333,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 22,
+      "title": "Cyber Girl 22",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-22/1080/2340",
+      "downloads": 2406,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 23,
+      "title": "Starlight 23",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-23/1080/2340",
+      "downloads": 2479,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 24,
+      "title": "Moon Prism 24",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-24/1080/2340",
+      "downloads": 2552,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 25,
+      "title": "Sakura Glow 25",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-25/1080/2340",
+      "downloads": 2625,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 26,
+      "title": "Neon Dream 26",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-26/1080/2340",
+      "downloads": 2698,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 27,
+      "title": "Cyber Girl 27",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-27/1080/2340",
+      "downloads": 2771,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 28,
+      "title": "Starlight 28",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-28/1080/2340",
+      "downloads": 2844,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 29,
+      "title": "Moon Prism 29",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-29/1080/2340",
+      "downloads": 2917,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 30,
+      "title": "Sakura Glow 30",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-30/1080/2340",
+      "downloads": 2990,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 31,
+      "title": "Neon Dream 31",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-31/1080/2340",
+      "downloads": 3063,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 32,
+      "title": "Cyber Girl 32",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-32/1080/2340",
+      "downloads": 3136,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 33,
+      "title": "Starlight 33",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-33/1080/2340",
+      "downloads": 3209,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 34,
+      "title": "Moon Prism 34",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-34/1080/2340",
+      "downloads": 3282,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 35,
+      "title": "Sakura Glow 35",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-35/1080/2340",
+      "downloads": 3355,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 36,
+      "title": "Neon Dream 36",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-36/1080/2340",
+      "downloads": 3428,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 37,
+      "title": "Cyber Girl 37",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-37/1080/2340",
+      "downloads": 3501,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 38,
+      "title": "Starlight 38",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-38/1080/2340",
+      "downloads": 3574,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 39,
+      "title": "Moon Prism 39",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-39/1080/2340",
+      "downloads": 3647,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 40,
+      "title": "Sakura Glow 40",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-40/1080/2340",
+      "downloads": 3720,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 41,
+      "title": "Neon Dream 41",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-41/1080/2340",
+      "downloads": 3793,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 42,
+      "title": "Cyber Girl 42",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-42/1080/2340",
+      "downloads": 3866,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 43,
+      "title": "Starlight 43",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-43/1080/2340",
+      "downloads": 3939,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 44,
+      "title": "Moon Prism 44",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-44/1080/2340",
+      "downloads": 4012,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 45,
+      "title": "Sakura Glow 45",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-45/1080/2340",
+      "downloads": 4085,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 46,
+      "title": "Neon Dream 46",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-46/1080/2340",
+      "downloads": 4158,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 47,
+      "title": "Cyber Girl 47",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-47/1080/2340",
+      "downloads": 4231,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 48,
+      "title": "Starlight 48",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-48/1080/2340",
+      "downloads": 4304,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 49,
+      "title": "Moon Prism 49",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-49/1080/2340",
+      "downloads": 4377,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 50,
+      "title": "Sakura Glow 50",
+      "category": "Anime",
+      "image": "https://picsum.photos/seed/neonify-50/1080/2340",
+      "downloads": 4450,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 51,
+      "title": "Soft Pink 51",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-51/1080/2340",
+      "downloads": 4523,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 52,
+      "title": "Candy Cloud 52",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-52/1080/2340",
+      "downloads": 4596,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 53,
+      "title": "Heart Glow 53",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-53/1080/2340",
+      "downloads": 4669,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 54,
+      "title": "Pastel Dream 54",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-54/1080/2340",
+      "downloads": 4742,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 55,
+      "title": "Sugar Rush 55",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-55/1080/2340",
+      "downloads": 4815,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 56,
+      "title": "Soft Pink 56",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-56/1080/2340",
+      "downloads": 4888,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 57,
+      "title": "Candy Cloud 57",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-57/1080/2340",
+      "downloads": 4961,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 58,
+      "title": "Heart Glow 58",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-58/1080/2340",
+      "downloads": 5034,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 59,
+      "title": "Pastel Dream 59",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-59/1080/2340",
+      "downloads": 5107,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 60,
+      "title": "Sugar Rush 60",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-60/1080/2340",
+      "downloads": 5180,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 61,
+      "title": "Soft Pink 61",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-61/1080/2340",
+      "downloads": 5253,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 62,
+      "title": "Candy Cloud 62",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-62/1080/2340",
+      "downloads": 5326,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 63,
+      "title": "Heart Glow 63",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-63/1080/2340",
+      "downloads": 5399,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 64,
+      "title": "Pastel Dream 64",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-64/1080/2340",
+      "downloads": 5472,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 65,
+      "title": "Sugar Rush 65",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-65/1080/2340",
+      "downloads": 5545,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 66,
+      "title": "Soft Pink 66",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-66/1080/2340",
+      "downloads": 5618,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 67,
+      "title": "Candy Cloud 67",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-67/1080/2340",
+      "downloads": 5691,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 68,
+      "title": "Heart Glow 68",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-68/1080/2340",
+      "downloads": 5764,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 69,
+      "title": "Pastel Dream 69",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-69/1080/2340",
+      "downloads": 5837,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 70,
+      "title": "Sugar Rush 70",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-70/1080/2340",
+      "downloads": 5910,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 71,
+      "title": "Soft Pink 71",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-71/1080/2340",
+      "downloads": 5983,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 72,
+      "title": "Candy Cloud 72",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-72/1080/2340",
+      "downloads": 6056,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 73,
+      "title": "Heart Glow 73",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-73/1080/2340",
+      "downloads": 6129,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 74,
+      "title": "Pastel Dream 74",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-74/1080/2340",
+      "downloads": 6202,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 75,
+      "title": "Sugar Rush 75",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-75/1080/2340",
+      "downloads": 6275,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 76,
+      "title": "Soft Pink 76",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-76/1080/2340",
+      "downloads": 6348,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 77,
+      "title": "Candy Cloud 77",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-77/1080/2340",
+      "downloads": 6421,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 78,
+      "title": "Heart Glow 78",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-78/1080/2340",
+      "downloads": 6494,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 79,
+      "title": "Pastel Dream 79",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-79/1080/2340",
+      "downloads": 6567,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 80,
+      "title": "Sugar Rush 80",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-80/1080/2340",
+      "downloads": 6640,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 81,
+      "title": "Soft Pink 81",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-81/1080/2340",
+      "downloads": 6713,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 82,
+      "title": "Candy Cloud 82",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-82/1080/2340",
+      "downloads": 6786,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 83,
+      "title": "Heart Glow 83",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-83/1080/2340",
+      "downloads": 6859,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 84,
+      "title": "Pastel Dream 84",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-84/1080/2340",
+      "downloads": 6932,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 85,
+      "title": "Sugar Rush 85",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-85/1080/2340",
+      "downloads": 7005,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 86,
+      "title": "Soft Pink 86",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-86/1080/2340",
+      "downloads": 7078,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 87,
+      "title": "Candy Cloud 87",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-87/1080/2340",
+      "downloads": 7151,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 88,
+      "title": "Heart Glow 88",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-88/1080/2340",
+      "downloads": 7224,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 89,
+      "title": "Pastel Dream 89",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-89/1080/2340",
+      "downloads": 7297,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 90,
+      "title": "Sugar Rush 90",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-90/1080/2340",
+      "downloads": 7370,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 91,
+      "title": "Soft Pink 91",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-91/1080/2340",
+      "downloads": 7443,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 92,
+      "title": "Candy Cloud 92",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-92/1080/2340",
+      "downloads": 7516,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 93,
+      "title": "Heart Glow 93",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-93/1080/2340",
+      "downloads": 7589,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 94,
+      "title": "Pastel Dream 94",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-94/1080/2340",
+      "downloads": 7662,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 95,
+      "title": "Sugar Rush 95",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-95/1080/2340",
+      "downloads": 7735,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 96,
+      "title": "Soft Pink 96",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-96/1080/2340",
+      "downloads": 7808,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 97,
+      "title": "Candy Cloud 97",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-97/1080/2340",
+      "downloads": 7881,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 98,
+      "title": "Heart Glow 98",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-98/1080/2340",
+      "downloads": 7954,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 99,
+      "title": "Pastel Dream 99",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-99/1080/2340",
+      "downloads": 8027,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 100,
+      "title": "Sugar Rush 100",
+      "category": "Kawaii",
+      "image": "https://picsum.photos/seed/neonify-100/1080/2340",
+      "downloads": 8100,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 101,
+      "title": "Neon City 101",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-101/1080/2340",
+      "downloads": 8173,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 102,
+      "title": "Chrome Rain 102",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-102/1080/2340",
+      "downloads": 8246,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 103,
+      "title": "Night Drive 103",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-103/1080/2340",
+      "downloads": 8319,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 104,
+      "title": "Synth Wave 104",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-104/1080/2340",
+      "downloads": 8392,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 105,
+      "title": "Digital Pulse 105",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-105/1080/2340",
+      "downloads": 8465,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 106,
+      "title": "Neon City 106",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-106/1080/2340",
+      "downloads": 8538,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 107,
+      "title": "Chrome Rain 107",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-107/1080/2340",
+      "downloads": 8611,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 108,
+      "title": "Night Drive 108",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-108/1080/2340",
+      "downloads": 8684,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 109,
+      "title": "Synth Wave 109",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-109/1080/2340",
+      "downloads": 8757,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 110,
+      "title": "Digital Pulse 110",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-110/1080/2340",
+      "downloads": 8830,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 111,
+      "title": "Neon City 111",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-111/1080/2340",
+      "downloads": 8903,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 112,
+      "title": "Chrome Rain 112",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-112/1080/2340",
+      "downloads": 8976,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 113,
+      "title": "Night Drive 113",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-113/1080/2340",
+      "downloads": 9049,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 114,
+      "title": "Synth Wave 114",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-114/1080/2340",
+      "downloads": 9122,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 115,
+      "title": "Digital Pulse 115",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-115/1080/2340",
+      "downloads": 9195,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 116,
+      "title": "Neon City 116",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-116/1080/2340",
+      "downloads": 9268,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 117,
+      "title": "Chrome Rain 117",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-117/1080/2340",
+      "downloads": 9341,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 118,
+      "title": "Night Drive 118",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-118/1080/2340",
+      "downloads": 9414,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 119,
+      "title": "Synth Wave 119",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-119/1080/2340",
+      "downloads": 9487,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 120,
+      "title": "Digital Pulse 120",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-120/1080/2340",
+      "downloads": 9560,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 121,
+      "title": "Neon City 121",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-121/1080/2340",
+      "downloads": 9633,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 122,
+      "title": "Chrome Rain 122",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-122/1080/2340",
+      "downloads": 9706,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 123,
+      "title": "Night Drive 123",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-123/1080/2340",
+      "downloads": 9779,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 124,
+      "title": "Synth Wave 124",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-124/1080/2340",
+      "downloads": 9852,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 125,
+      "title": "Digital Pulse 125",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-125/1080/2340",
+      "downloads": 9925,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 126,
+      "title": "Neon City 126",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-126/1080/2340",
+      "downloads": 9998,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 127,
+      "title": "Chrome Rain 127",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-127/1080/2340",
+      "downloads": 10071,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 128,
+      "title": "Night Drive 128",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-128/1080/2340",
+      "downloads": 10144,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 129,
+      "title": "Synth Wave 129",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-129/1080/2340",
+      "downloads": 10217,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 130,
+      "title": "Digital Pulse 130",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-130/1080/2340",
+      "downloads": 10290,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 131,
+      "title": "Neon City 131",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-131/1080/2340",
+      "downloads": 10363,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 132,
+      "title": "Chrome Rain 132",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-132/1080/2340",
+      "downloads": 10436,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 133,
+      "title": "Night Drive 133",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-133/1080/2340",
+      "downloads": 10509,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 134,
+      "title": "Synth Wave 134",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-134/1080/2340",
+      "downloads": 10582,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 135,
+      "title": "Digital Pulse 135",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-135/1080/2340",
+      "downloads": 855,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 136,
+      "title": "Neon City 136",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-136/1080/2340",
+      "downloads": 928,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 137,
+      "title": "Chrome Rain 137",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-137/1080/2340",
+      "downloads": 1001,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 138,
+      "title": "Night Drive 138",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-138/1080/2340",
+      "downloads": 1074,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 139,
+      "title": "Synth Wave 139",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-139/1080/2340",
+      "downloads": 1147,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 140,
+      "title": "Digital Pulse 140",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-140/1080/2340",
+      "downloads": 1220,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 141,
+      "title": "Neon City 141",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-141/1080/2340",
+      "downloads": 1293,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 142,
+      "title": "Chrome Rain 142",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-142/1080/2340",
+      "downloads": 1366,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 143,
+      "title": "Night Drive 143",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-143/1080/2340",
+      "downloads": 1439,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 144,
+      "title": "Synth Wave 144",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-144/1080/2340",
+      "downloads": 1512,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 145,
+      "title": "Digital Pulse 145",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-145/1080/2340",
+      "downloads": 1585,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 146,
+      "title": "Neon City 146",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-146/1080/2340",
+      "downloads": 1658,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 147,
+      "title": "Chrome Rain 147",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-147/1080/2340",
+      "downloads": 1731,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 148,
+      "title": "Night Drive 148",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-148/1080/2340",
+      "downloads": 1804,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 149,
+      "title": "Synth Wave 149",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-149/1080/2340",
+      "downloads": 1877,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 150,
+      "title": "Digital Pulse 150",
+      "category": "Cyberpunk",
+      "image": "https://picsum.photos/seed/neonify-150/1080/2340",
+      "downloads": 1950,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 151,
+      "title": "Pure Black 151",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-151/1080/2340",
+      "downloads": 2023,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 152,
+      "title": "Void Glow 152",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-152/1080/2340",
+      "downloads": 2096,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 153,
+      "title": "Deep Space 153",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-153/1080/2340",
+      "downloads": 2169,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 154,
+      "title": "Midnight 154",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-154/1080/2340",
+      "downloads": 2242,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 155,
+      "title": "Shadow Core 155",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-155/1080/2340",
+      "downloads": 2315,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 156,
+      "title": "Pure Black 156",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-156/1080/2340",
+      "downloads": 2388,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 157,
+      "title": "Void Glow 157",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-157/1080/2340",
+      "downloads": 2461,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 158,
+      "title": "Deep Space 158",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-158/1080/2340",
+      "downloads": 2534,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 159,
+      "title": "Midnight 159",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-159/1080/2340",
+      "downloads": 2607,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 160,
+      "title": "Shadow Core 160",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-160/1080/2340",
+      "downloads": 2680,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 161,
+      "title": "Pure Black 161",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-161/1080/2340",
+      "downloads": 2753,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 162,
+      "title": "Void Glow 162",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-162/1080/2340",
+      "downloads": 2826,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 163,
+      "title": "Deep Space 163",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-163/1080/2340",
+      "downloads": 2899,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 164,
+      "title": "Midnight 164",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-164/1080/2340",
+      "downloads": 2972,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 165,
+      "title": "Shadow Core 165",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-165/1080/2340",
+      "downloads": 3045,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 166,
+      "title": "Pure Black 166",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-166/1080/2340",
+      "downloads": 3118,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 167,
+      "title": "Void Glow 167",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-167/1080/2340",
+      "downloads": 3191,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 168,
+      "title": "Deep Space 168",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-168/1080/2340",
+      "downloads": 3264,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 169,
+      "title": "Midnight 169",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-169/1080/2340",
+      "downloads": 3337,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 170,
+      "title": "Shadow Core 170",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-170/1080/2340",
+      "downloads": 3410,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 171,
+      "title": "Pure Black 171",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-171/1080/2340",
+      "downloads": 3483,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 172,
+      "title": "Void Glow 172",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-172/1080/2340",
+      "downloads": 3556,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 173,
+      "title": "Deep Space 173",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-173/1080/2340",
+      "downloads": 3629,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 174,
+      "title": "Midnight 174",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-174/1080/2340",
+      "downloads": 3702,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 175,
+      "title": "Shadow Core 175",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-175/1080/2340",
+      "downloads": 3775,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 176,
+      "title": "Pure Black 176",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-176/1080/2340",
+      "downloads": 3848,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 177,
+      "title": "Void Glow 177",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-177/1080/2340",
+      "downloads": 3921,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 178,
+      "title": "Deep Space 178",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-178/1080/2340",
+      "downloads": 3994,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 179,
+      "title": "Midnight 179",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-179/1080/2340",
+      "downloads": 4067,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 180,
+      "title": "Shadow Core 180",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-180/1080/2340",
+      "downloads": 4140,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 181,
+      "title": "Pure Black 181",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-181/1080/2340",
+      "downloads": 4213,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 182,
+      "title": "Void Glow 182",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-182/1080/2340",
+      "downloads": 4286,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 183,
+      "title": "Deep Space 183",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-183/1080/2340",
+      "downloads": 4359,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 184,
+      "title": "Midnight 184",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-184/1080/2340",
+      "downloads": 4432,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 185,
+      "title": "Shadow Core 185",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-185/1080/2340",
+      "downloads": 4505,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 186,
+      "title": "Pure Black 186",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-186/1080/2340",
+      "downloads": 4578,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 187,
+      "title": "Void Glow 187",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-187/1080/2340",
+      "downloads": 4651,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 188,
+      "title": "Deep Space 188",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-188/1080/2340",
+      "downloads": 4724,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 189,
+      "title": "Midnight 189",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-189/1080/2340",
+      "downloads": 4797,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 190,
+      "title": "Shadow Core 190",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-190/1080/2340",
+      "downloads": 4870,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 191,
+      "title": "Pure Black 191",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-191/1080/2340",
+      "downloads": 4943,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 192,
+      "title": "Void Glow 192",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-192/1080/2340",
+      "downloads": 5016,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 193,
+      "title": "Deep Space 193",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-193/1080/2340",
+      "downloads": 5089,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 194,
+      "title": "Midnight 194",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-194/1080/2340",
+      "downloads": 5162,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 195,
+      "title": "Shadow Core 195",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-195/1080/2340",
+      "downloads": 5235,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 196,
+      "title": "Pure Black 196",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-196/1080/2340",
+      "downloads": 5308,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 197,
+      "title": "Void Glow 197",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-197/1080/2340",
+      "downloads": 5381,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 198,
+      "title": "Deep Space 198",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-198/1080/2340",
+      "downloads": 5454,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 199,
+      "title": "Midnight 199",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-199/1080/2340",
+      "downloads": 5527,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 200,
+      "title": "Shadow Core 200",
+      "category": "AMOLED",
+      "image": "https://picsum.photos/seed/neonify-200/1080/2340",
+      "downloads": 5600,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 201,
+      "title": "Electric 201",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-201/1080/2340",
+      "downloads": 5673,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 202,
+      "title": "Plasma Core 202",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-202/1080/2340",
+      "downloads": 5746,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 203,
+      "title": "Laser Grid 203",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-203/1080/2340",
+      "downloads": 5819,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 204,
+      "title": "Glow Storm 204",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-204/1080/2340",
+      "downloads": 5892,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 205,
+      "title": "Neon Pulse 205",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-205/1080/2340",
+      "downloads": 5965,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 206,
+      "title": "Electric 206",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-206/1080/2340",
+      "downloads": 6038,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 207,
+      "title": "Plasma Core 207",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-207/1080/2340",
+      "downloads": 6111,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 208,
+      "title": "Laser Grid 208",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-208/1080/2340",
+      "downloads": 6184,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 209,
+      "title": "Glow Storm 209",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-209/1080/2340",
+      "downloads": 6257,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 210,
+      "title": "Neon Pulse 210",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-210/1080/2340",
+      "downloads": 6330,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 211,
+      "title": "Electric 211",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-211/1080/2340",
+      "downloads": 6403,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 212,
+      "title": "Plasma Core 212",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-212/1080/2340",
+      "downloads": 6476,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 213,
+      "title": "Laser Grid 213",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-213/1080/2340",
+      "downloads": 6549,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 214,
+      "title": "Glow Storm 214",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-214/1080/2340",
+      "downloads": 6622,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 215,
+      "title": "Neon Pulse 215",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-215/1080/2340",
+      "downloads": 6695,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 216,
+      "title": "Electric 216",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-216/1080/2340",
+      "downloads": 6768,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 217,
+      "title": "Plasma Core 217",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-217/1080/2340",
+      "downloads": 6841,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 218,
+      "title": "Laser Grid 218",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-218/1080/2340",
+      "downloads": 6914,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 219,
+      "title": "Glow Storm 219",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-219/1080/2340",
+      "downloads": 6987,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 220,
+      "title": "Neon Pulse 220",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-220/1080/2340",
+      "downloads": 7060,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 221,
+      "title": "Electric 221",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-221/1080/2340",
+      "downloads": 7133,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 222,
+      "title": "Plasma Core 222",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-222/1080/2340",
+      "downloads": 7206,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 223,
+      "title": "Laser Grid 223",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-223/1080/2340",
+      "downloads": 7279,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 224,
+      "title": "Glow Storm 224",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-224/1080/2340",
+      "downloads": 7352,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 225,
+      "title": "Neon Pulse 225",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-225/1080/2340",
+      "downloads": 7425,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 226,
+      "title": "Electric 226",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-226/1080/2340",
+      "downloads": 7498,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 227,
+      "title": "Plasma Core 227",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-227/1080/2340",
+      "downloads": 7571,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 228,
+      "title": "Laser Grid 228",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-228/1080/2340",
+      "downloads": 7644,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 229,
+      "title": "Glow Storm 229",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-229/1080/2340",
+      "downloads": 7717,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 230,
+      "title": "Neon Pulse 230",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-230/1080/2340",
+      "downloads": 7790,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 231,
+      "title": "Electric 231",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-231/1080/2340",
+      "downloads": 7863,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 232,
+      "title": "Plasma Core 232",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-232/1080/2340",
+      "downloads": 7936,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 233,
+      "title": "Laser Grid 233",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-233/1080/2340",
+      "downloads": 8009,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 234,
+      "title": "Glow Storm 234",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-234/1080/2340",
+      "downloads": 8082,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 235,
+      "title": "Neon Pulse 235",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-235/1080/2340",
+      "downloads": 8155,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 236,
+      "title": "Electric 236",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-236/1080/2340",
+      "downloads": 8228,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 237,
+      "title": "Plasma Core 237",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-237/1080/2340",
+      "downloads": 8301,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 238,
+      "title": "Laser Grid 238",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-238/1080/2340",
+      "downloads": 8374,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 239,
+      "title": "Glow Storm 239",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-239/1080/2340",
+      "downloads": 8447,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 240,
+      "title": "Neon Pulse 240",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-240/1080/2340",
+      "downloads": 8520,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 241,
+      "title": "Electric 241",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-241/1080/2340",
+      "downloads": 8593,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 242,
+      "title": "Plasma Core 242",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-242/1080/2340",
+      "downloads": 8666,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 243,
+      "title": "Laser Grid 243",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-243/1080/2340",
+      "downloads": 8739,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 244,
+      "title": "Glow Storm 244",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-244/1080/2340",
+      "downloads": 8812,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 245,
+      "title": "Neon Pulse 245",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-245/1080/2340",
+      "downloads": 8885,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 246,
+      "title": "Electric 246",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-246/1080/2340",
+      "downloads": 8958,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 247,
+      "title": "Plasma Core 247",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-247/1080/2340",
+      "downloads": 9031,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 248,
+      "title": "Laser Grid 248",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-248/1080/2340",
+      "downloads": 9104,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 249,
+      "title": "Glow Storm 249",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-249/1080/2340",
+      "downloads": 9177,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 250,
+      "title": "Neon Pulse 250",
+      "category": "Neon",
+      "image": "https://picsum.photos/seed/neonify-250/1080/2340",
+      "downloads": 9250,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 251,
+      "title": "RGB Setup 251",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-251/1080/2340",
+      "downloads": 9323,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 252,
+      "title": "Neon Desk 252",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-252/1080/2340",
+      "downloads": 9396,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 253,
+      "title": "Pro Gamer 253",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-253/1080/2340",
+      "downloads": 9469,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 254,
+      "title": "Cyber Rig 254",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-254/1080/2340",
+      "downloads": 9542,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 255,
+      "title": "Victory Glow 255",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-255/1080/2340",
+      "downloads": 9615,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 256,
+      "title": "RGB Setup 256",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-256/1080/2340",
+      "downloads": 9688,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 257,
+      "title": "Neon Desk 257",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-257/1080/2340",
+      "downloads": 9761,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 258,
+      "title": "Pro Gamer 258",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-258/1080/2340",
+      "downloads": 9834,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 259,
+      "title": "Cyber Rig 259",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-259/1080/2340",
+      "downloads": 9907,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 260,
+      "title": "Victory Glow 260",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-260/1080/2340",
+      "downloads": 9980,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 261,
+      "title": "RGB Setup 261",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-261/1080/2340",
+      "downloads": 10053,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 262,
+      "title": "Neon Desk 262",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-262/1080/2340",
+      "downloads": 10126,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 263,
+      "title": "Pro Gamer 263",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-263/1080/2340",
+      "downloads": 10199,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 264,
+      "title": "Cyber Rig 264",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-264/1080/2340",
+      "downloads": 10272,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 265,
+      "title": "Victory Glow 265",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-265/1080/2340",
+      "downloads": 10345,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 266,
+      "title": "RGB Setup 266",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-266/1080/2340",
+      "downloads": 10418,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 267,
+      "title": "Neon Desk 267",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-267/1080/2340",
+      "downloads": 10491,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 268,
+      "title": "Pro Gamer 268",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-268/1080/2340",
+      "downloads": 10564,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 269,
+      "title": "Cyber Rig 269",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-269/1080/2340",
+      "downloads": 837,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 270,
+      "title": "Victory Glow 270",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-270/1080/2340",
+      "downloads": 910,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 271,
+      "title": "RGB Setup 271",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-271/1080/2340",
+      "downloads": 983,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 272,
+      "title": "Neon Desk 272",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-272/1080/2340",
+      "downloads": 1056,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 273,
+      "title": "Pro Gamer 273",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-273/1080/2340",
+      "downloads": 1129,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 274,
+      "title": "Cyber Rig 274",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-274/1080/2340",
+      "downloads": 1202,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 275,
+      "title": "Victory Glow 275",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-275/1080/2340",
+      "downloads": 1275,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 276,
+      "title": "RGB Setup 276",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-276/1080/2340",
+      "downloads": 1348,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 277,
+      "title": "Neon Desk 277",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-277/1080/2340",
+      "downloads": 1421,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 278,
+      "title": "Pro Gamer 278",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-278/1080/2340",
+      "downloads": 1494,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 279,
+      "title": "Cyber Rig 279",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-279/1080/2340",
+      "downloads": 1567,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 280,
+      "title": "Victory Glow 280",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-280/1080/2340",
+      "downloads": 1640,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 281,
+      "title": "RGB Setup 281",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-281/1080/2340",
+      "downloads": 1713,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 282,
+      "title": "Neon Desk 282",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-282/1080/2340",
+      "downloads": 1786,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 283,
+      "title": "Pro Gamer 283",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-283/1080/2340",
+      "downloads": 1859,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 284,
+      "title": "Cyber Rig 284",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-284/1080/2340",
+      "downloads": 1932,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 285,
+      "title": "Victory Glow 285",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-285/1080/2340",
+      "downloads": 2005,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 286,
+      "title": "RGB Setup 286",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-286/1080/2340",
+      "downloads": 2078,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 287,
+      "title": "Neon Desk 287",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-287/1080/2340",
+      "downloads": 2151,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 288,
+      "title": "Pro Gamer 288",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-288/1080/2340",
+      "downloads": 2224,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 289,
+      "title": "Cyber Rig 289",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-289/1080/2340",
+      "downloads": 2297,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 290,
+      "title": "Victory Glow 290",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-290/1080/2340",
+      "downloads": 2370,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 291,
+      "title": "RGB Setup 291",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-291/1080/2340",
+      "downloads": 2443,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 292,
+      "title": "Neon Desk 292",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-292/1080/2340",
+      "downloads": 2516,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 293,
+      "title": "Pro Gamer 293",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-293/1080/2340",
+      "downloads": 2589,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 294,
+      "title": "Cyber Rig 294",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-294/1080/2340",
+      "downloads": 2662,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 295,
+      "title": "Victory Glow 295",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-295/1080/2340",
+      "downloads": 2735,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 296,
+      "title": "RGB Setup 296",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-296/1080/2340",
+      "downloads": 2808,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 297,
+      "title": "Neon Desk 297",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-297/1080/2340",
+      "downloads": 2881,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 298,
+      "title": "Pro Gamer 298",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-298/1080/2340",
+      "downloads": 2954,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 299,
+      "title": "Cyber Rig 299",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-299/1080/2340",
+      "downloads": 3027,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 300,
+      "title": "Victory Glow 300",
+      "category": "Gaming",
+      "image": "https://picsum.photos/seed/neonify-300/1080/2340",
+      "downloads": 3100,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 301,
+      "title": "Crystal Realm 301",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-301/1080/2340",
+      "downloads": 3173,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 302,
+      "title": "Dragon Sky 302",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-302/1080/2340",
+      "downloads": 3246,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 303,
+      "title": "Magic Forest 303",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-303/1080/2340",
+      "downloads": 3319,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 304,
+      "title": "Ethereal 304",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-304/1080/2340",
+      "downloads": 3392,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 305,
+      "title": "Mystic Gate 305",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-305/1080/2340",
+      "downloads": 3465,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 306,
+      "title": "Crystal Realm 306",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-306/1080/2340",
+      "downloads": 3538,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 307,
+      "title": "Dragon Sky 307",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-307/1080/2340",
+      "downloads": 3611,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 308,
+      "title": "Magic Forest 308",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-308/1080/2340",
+      "downloads": 3684,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 309,
+      "title": "Ethereal 309",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-309/1080/2340",
+      "downloads": 3757,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 310,
+      "title": "Mystic Gate 310",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-310/1080/2340",
+      "downloads": 3830,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 311,
+      "title": "Crystal Realm 311",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-311/1080/2340",
+      "downloads": 3903,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 312,
+      "title": "Dragon Sky 312",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-312/1080/2340",
+      "downloads": 3976,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 313,
+      "title": "Magic Forest 313",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-313/1080/2340",
+      "downloads": 4049,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 314,
+      "title": "Ethereal 314",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-314/1080/2340",
+      "downloads": 4122,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 315,
+      "title": "Mystic Gate 315",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-315/1080/2340",
+      "downloads": 4195,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 316,
+      "title": "Crystal Realm 316",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-316/1080/2340",
+      "downloads": 4268,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 317,
+      "title": "Dragon Sky 317",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-317/1080/2340",
+      "downloads": 4341,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 318,
+      "title": "Magic Forest 318",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-318/1080/2340",
+      "downloads": 4414,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 319,
+      "title": "Ethereal 319",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-319/1080/2340",
+      "downloads": 4487,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 320,
+      "title": "Mystic Gate 320",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-320/1080/2340",
+      "downloads": 4560,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 321,
+      "title": "Crystal Realm 321",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-321/1080/2340",
+      "downloads": 4633,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 322,
+      "title": "Dragon Sky 322",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-322/1080/2340",
+      "downloads": 4706,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 323,
+      "title": "Magic Forest 323",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-323/1080/2340",
+      "downloads": 4779,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 324,
+      "title": "Ethereal 324",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-324/1080/2340",
+      "downloads": 4852,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 325,
+      "title": "Mystic Gate 325",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-325/1080/2340",
+      "downloads": 4925,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 326,
+      "title": "Crystal Realm 326",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-326/1080/2340",
+      "downloads": 4998,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 327,
+      "title": "Dragon Sky 327",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-327/1080/2340",
+      "downloads": 5071,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 328,
+      "title": "Magic Forest 328",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-328/1080/2340",
+      "downloads": 5144,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 329,
+      "title": "Ethereal 329",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-329/1080/2340",
+      "downloads": 5217,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 330,
+      "title": "Mystic Gate 330",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-330/1080/2340",
+      "downloads": 5290,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 331,
+      "title": "Crystal Realm 331",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-331/1080/2340",
+      "downloads": 5363,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 332,
+      "title": "Dragon Sky 332",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-332/1080/2340",
+      "downloads": 5436,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 333,
+      "title": "Magic Forest 333",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-333/1080/2340",
+      "downloads": 5509,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 334,
+      "title": "Ethereal 334",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-334/1080/2340",
+      "downloads": 5582,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 335,
+      "title": "Mystic Gate 335",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-335/1080/2340",
+      "downloads": 5655,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 336,
+      "title": "Crystal Realm 336",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-336/1080/2340",
+      "downloads": 5728,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 337,
+      "title": "Dragon Sky 337",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-337/1080/2340",
+      "downloads": 5801,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 338,
+      "title": "Magic Forest 338",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-338/1080/2340",
+      "downloads": 5874,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 339,
+      "title": "Ethereal 339",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-339/1080/2340",
+      "downloads": 5947,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 340,
+      "title": "Mystic Gate 340",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-340/1080/2340",
+      "downloads": 6020,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 341,
+      "title": "Crystal Realm 341",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-341/1080/2340",
+      "downloads": 6093,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 342,
+      "title": "Dragon Sky 342",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-342/1080/2340",
+      "downloads": 6166,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 343,
+      "title": "Magic Forest 343",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-343/1080/2340",
+      "downloads": 6239,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 344,
+      "title": "Ethereal 344",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-344/1080/2340",
+      "downloads": 6312,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 345,
+      "title": "Mystic Gate 345",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-345/1080/2340",
+      "downloads": 6385,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 346,
+      "title": "Crystal Realm 346",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-346/1080/2340",
+      "downloads": 6458,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 347,
+      "title": "Dragon Sky 347",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-347/1080/2340",
+      "downloads": 6531,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 348,
+      "title": "Magic Forest 348",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-348/1080/2340",
+      "downloads": 6604,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 349,
+      "title": "Ethereal 349",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-349/1080/2340",
+      "downloads": 6677,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 350,
+      "title": "Mystic Gate 350",
+      "category": "Fantasy",
+      "image": "https://picsum.photos/seed/neonify-350/1080/2340",
+      "downloads": 6750,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 351,
+      "title": "Nebula 351",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-351/1080/2340",
+      "downloads": 6823,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 352,
+      "title": "Cosmic Drift 352",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-352/1080/2340",
+      "downloads": 6896,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 353,
+      "title": "Star Field 353",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-353/1080/2340",
+      "downloads": 6969,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 354,
+      "title": "Galaxy Core 354",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-354/1080/2340",
+      "downloads": 7042,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 355,
+      "title": "Orbit Glow 355",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-355/1080/2340",
+      "downloads": 7115,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 356,
+      "title": "Nebula 356",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-356/1080/2340",
+      "downloads": 7188,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 357,
+      "title": "Cosmic Drift 357",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-357/1080/2340",
+      "downloads": 7261,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 358,
+      "title": "Star Field 358",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-358/1080/2340",
+      "downloads": 7334,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 359,
+      "title": "Galaxy Core 359",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-359/1080/2340",
+      "downloads": 7407,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 360,
+      "title": "Orbit Glow 360",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-360/1080/2340",
+      "downloads": 7480,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 361,
+      "title": "Nebula 361",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-361/1080/2340",
+      "downloads": 7553,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 362,
+      "title": "Cosmic Drift 362",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-362/1080/2340",
+      "downloads": 7626,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 363,
+      "title": "Star Field 363",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-363/1080/2340",
+      "downloads": 7699,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 364,
+      "title": "Galaxy Core 364",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-364/1080/2340",
+      "downloads": 7772,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 365,
+      "title": "Orbit Glow 365",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-365/1080/2340",
+      "downloads": 7845,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 366,
+      "title": "Nebula 366",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-366/1080/2340",
+      "downloads": 7918,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 367,
+      "title": "Cosmic Drift 367",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-367/1080/2340",
+      "downloads": 7991,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 368,
+      "title": "Star Field 368",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-368/1080/2340",
+      "downloads": 8064,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 369,
+      "title": "Galaxy Core 369",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-369/1080/2340",
+      "downloads": 8137,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 370,
+      "title": "Orbit Glow 370",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-370/1080/2340",
+      "downloads": 8210,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 371,
+      "title": "Nebula 371",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-371/1080/2340",
+      "downloads": 8283,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 372,
+      "title": "Cosmic Drift 372",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-372/1080/2340",
+      "downloads": 8356,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 373,
+      "title": "Star Field 373",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-373/1080/2340",
+      "downloads": 8429,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 374,
+      "title": "Galaxy Core 374",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-374/1080/2340",
+      "downloads": 8502,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 375,
+      "title": "Orbit Glow 375",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-375/1080/2340",
+      "downloads": 8575,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 376,
+      "title": "Nebula 376",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-376/1080/2340",
+      "downloads": 8648,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 377,
+      "title": "Cosmic Drift 377",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-377/1080/2340",
+      "downloads": 8721,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 378,
+      "title": "Star Field 378",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-378/1080/2340",
+      "downloads": 8794,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 379,
+      "title": "Galaxy Core 379",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-379/1080/2340",
+      "downloads": 8867,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 380,
+      "title": "Orbit Glow 380",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-380/1080/2340",
+      "downloads": 8940,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 381,
+      "title": "Nebula 381",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-381/1080/2340",
+      "downloads": 9013,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 382,
+      "title": "Cosmic Drift 382",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-382/1080/2340",
+      "downloads": 9086,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 383,
+      "title": "Star Field 383",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-383/1080/2340",
+      "downloads": 9159,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 384,
+      "title": "Galaxy Core 384",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-384/1080/2340",
+      "downloads": 9232,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 385,
+      "title": "Orbit Glow 385",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-385/1080/2340",
+      "downloads": 9305,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 386,
+      "title": "Nebula 386",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-386/1080/2340",
+      "downloads": 9378,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 387,
+      "title": "Cosmic Drift 387",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-387/1080/2340",
+      "downloads": 9451,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 388,
+      "title": "Star Field 388",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-388/1080/2340",
+      "downloads": 9524,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 389,
+      "title": "Galaxy Core 389",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-389/1080/2340",
+      "downloads": 9597,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 390,
+      "title": "Orbit Glow 390",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-390/1080/2340",
+      "downloads": 9670,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 391,
+      "title": "Nebula 391",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-391/1080/2340",
+      "downloads": 9743,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 392,
+      "title": "Cosmic Drift 392",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-392/1080/2340",
+      "downloads": 9816,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 393,
+      "title": "Star Field 393",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-393/1080/2340",
+      "downloads": 9889,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 394,
+      "title": "Galaxy Core 394",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-394/1080/2340",
+      "downloads": 9962,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 395,
+      "title": "Orbit Glow 395",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-395/1080/2340",
+      "downloads": 10035,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 396,
+      "title": "Nebula 396",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-396/1080/2340",
+      "downloads": 10108,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 397,
+      "title": "Cosmic Drift 397",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-397/1080/2340",
+      "downloads": 10181,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 398,
+      "title": "Star Field 398",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-398/1080/2340",
+      "downloads": 10254,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 399,
+      "title": "Galaxy Core 399",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-399/1080/2340",
+      "downloads": 10327,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 400,
+      "title": "Orbit Glow 400",
+      "category": "Space",
+      "image": "https://picsum.photos/seed/neonify-400/1080/2340",
+      "downloads": 10400,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 401,
+      "title": "Study Room 401",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-401/1080/2340",
+      "downloads": 10473,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 402,
+      "title": "Rain Window 402",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-402/1080/2340",
+      "downloads": 10546,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 403,
+      "title": "Cozy Desk 403",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-403/1080/2340",
+      "downloads": 819,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 404,
+      "title": "Night LoFi 404",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-404/1080/2340",
+      "downloads": 892,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 405,
+      "title": "Warm Lamp 405",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-405/1080/2340",
+      "downloads": 965,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 406,
+      "title": "Study Room 406",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-406/1080/2340",
+      "downloads": 1038,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 407,
+      "title": "Rain Window 407",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-407/1080/2340",
+      "downloads": 1111,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 408,
+      "title": "Cozy Desk 408",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-408/1080/2340",
+      "downloads": 1184,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 409,
+      "title": "Night LoFi 409",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-409/1080/2340",
+      "downloads": 1257,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 410,
+      "title": "Warm Lamp 410",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-410/1080/2340",
+      "downloads": 1330,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 411,
+      "title": "Study Room 411",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-411/1080/2340",
+      "downloads": 1403,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 412,
+      "title": "Rain Window 412",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-412/1080/2340",
+      "downloads": 1476,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 413,
+      "title": "Cozy Desk 413",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-413/1080/2340",
+      "downloads": 1549,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 414,
+      "title": "Night LoFi 414",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-414/1080/2340",
+      "downloads": 1622,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 415,
+      "title": "Warm Lamp 415",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-415/1080/2340",
+      "downloads": 1695,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 416,
+      "title": "Study Room 416",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-416/1080/2340",
+      "downloads": 1768,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 417,
+      "title": "Rain Window 417",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-417/1080/2340",
+      "downloads": 1841,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 418,
+      "title": "Cozy Desk 418",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-418/1080/2340",
+      "downloads": 1914,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 419,
+      "title": "Night LoFi 419",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-419/1080/2340",
+      "downloads": 1987,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 420,
+      "title": "Warm Lamp 420",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-420/1080/2340",
+      "downloads": 2060,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 421,
+      "title": "Study Room 421",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-421/1080/2340",
+      "downloads": 2133,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 422,
+      "title": "Rain Window 422",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-422/1080/2340",
+      "downloads": 2206,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 423,
+      "title": "Cozy Desk 423",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-423/1080/2340",
+      "downloads": 2279,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 424,
+      "title": "Night LoFi 424",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-424/1080/2340",
+      "downloads": 2352,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 425,
+      "title": "Warm Lamp 425",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-425/1080/2340",
+      "downloads": 2425,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 426,
+      "title": "Study Room 426",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-426/1080/2340",
+      "downloads": 2498,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 427,
+      "title": "Rain Window 427",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-427/1080/2340",
+      "downloads": 2571,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 428,
+      "title": "Cozy Desk 428",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-428/1080/2340",
+      "downloads": 2644,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 429,
+      "title": "Night LoFi 429",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-429/1080/2340",
+      "downloads": 2717,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 430,
+      "title": "Warm Lamp 430",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-430/1080/2340",
+      "downloads": 2790,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 431,
+      "title": "Study Room 431",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-431/1080/2340",
+      "downloads": 2863,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 432,
+      "title": "Rain Window 432",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-432/1080/2340",
+      "downloads": 2936,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 433,
+      "title": "Cozy Desk 433",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-433/1080/2340",
+      "downloads": 3009,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 434,
+      "title": "Night LoFi 434",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-434/1080/2340",
+      "downloads": 3082,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 435,
+      "title": "Warm Lamp 435",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-435/1080/2340",
+      "downloads": 3155,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 436,
+      "title": "Study Room 436",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-436/1080/2340",
+      "downloads": 3228,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 437,
+      "title": "Rain Window 437",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-437/1080/2340",
+      "downloads": 3301,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 438,
+      "title": "Cozy Desk 438",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-438/1080/2340",
+      "downloads": 3374,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 439,
+      "title": "Night LoFi 439",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-439/1080/2340",
+      "downloads": 3447,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 440,
+      "title": "Warm Lamp 440",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-440/1080/2340",
+      "downloads": 3520,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 441,
+      "title": "Study Room 441",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-441/1080/2340",
+      "downloads": 3593,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 442,
+      "title": "Rain Window 442",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-442/1080/2340",
+      "downloads": 3666,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 443,
+      "title": "Cozy Desk 443",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-443/1080/2340",
+      "downloads": 3739,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 444,
+      "title": "Night LoFi 444",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-444/1080/2340",
+      "downloads": 3812,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 445,
+      "title": "Warm Lamp 445",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-445/1080/2340",
+      "downloads": 3885,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 446,
+      "title": "Study Room 446",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-446/1080/2340",
+      "downloads": 3958,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 447,
+      "title": "Rain Window 447",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-447/1080/2340",
+      "downloads": 4031,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 448,
+      "title": "Cozy Desk 448",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-448/1080/2340",
+      "downloads": 4104,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 449,
+      "title": "Night LoFi 449",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-449/1080/2340",
+      "downloads": 4177,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 450,
+      "title": "Warm Lamp 450",
+      "category": "LoFi",
+      "image": "https://picsum.photos/seed/neonify-450/1080/2340",
+      "downloads": 4250,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 451,
+      "title": "Blush Hour 451",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-451/1080/2340",
+      "downloads": 4323,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 452,
+      "title": "Pink Moon 452",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-452/1080/2340",
+      "downloads": 4396,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 453,
+      "title": "Soft Neon 453",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-453/1080/2340",
+      "downloads": 4469,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 454,
+      "title": "Cherry Glow 454",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-454/1080/2340",
+      "downloads": 4542,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 455,
+      "title": "Dreamy Haze 455",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-455/1080/2340",
+      "downloads": 4615,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 456,
+      "title": "Blush Hour 456",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-456/1080/2340",
+      "downloads": 4688,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 457,
+      "title": "Pink Moon 457",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-457/1080/2340",
+      "downloads": 4761,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 458,
+      "title": "Soft Neon 458",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-458/1080/2340",
+      "downloads": 4834,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 459,
+      "title": "Cherry Glow 459",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-459/1080/2340",
+      "downloads": 4907,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 460,
+      "title": "Dreamy Haze 460",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-460/1080/2340",
+      "downloads": 4980,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 461,
+      "title": "Blush Hour 461",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-461/1080/2340",
+      "downloads": 5053,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 462,
+      "title": "Pink Moon 462",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-462/1080/2340",
+      "downloads": 5126,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 463,
+      "title": "Soft Neon 463",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-463/1080/2340",
+      "downloads": 5199,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 464,
+      "title": "Cherry Glow 464",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-464/1080/2340",
+      "downloads": 5272,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 465,
+      "title": "Dreamy Haze 465",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-465/1080/2340",
+      "downloads": 5345,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 466,
+      "title": "Blush Hour 466",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-466/1080/2340",
+      "downloads": 5418,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 467,
+      "title": "Pink Moon 467",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-467/1080/2340",
+      "downloads": 5491,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 468,
+      "title": "Soft Neon 468",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-468/1080/2340",
+      "downloads": 5564,
+      "isTrending": false,
+      "isNew": false
+    },
+    {
+      "id": 469,
+      "title": "Cherry Glow 469",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-469/1080/2340",
+      "downloads": 5637,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 470,
+      "title": "Dreamy Haze 470",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-470/1080/2340",
+      "downloads": 5710,
+      "isTrending": true,
+      "isNew": false
+    },
+    {
+      "id": 471,
+      "title": "Blush Hour 471",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-471/1080/2340",
+      "downloads": 5783,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 472,
+      "title": "Pink Moon 472",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-472/1080/2340",
+      "downloads": 5856,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 473,
+      "title": "Soft Neon 473",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-473/1080/2340",
+      "downloads": 5929,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 474,
+      "title": "Cherry Glow 474",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-474/1080/2340",
+      "downloads": 6002,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 475,
+      "title": "Dreamy Haze 475",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-475/1080/2340",
+      "downloads": 6075,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 476,
+      "title": "Blush Hour 476",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-476/1080/2340",
+      "downloads": 6148,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 477,
+      "title": "Pink Moon 477",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-477/1080/2340",
+      "downloads": 6221,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 478,
+      "title": "Soft Neon 478",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-478/1080/2340",
+      "downloads": 6294,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 479,
+      "title": "Cherry Glow 479",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-479/1080/2340",
+      "downloads": 6367,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 480,
+      "title": "Dreamy Haze 480",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-480/1080/2340",
+      "downloads": 6440,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 481,
+      "title": "Blush Hour 481",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-481/1080/2340",
+      "downloads": 6513,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 482,
+      "title": "Pink Moon 482",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-482/1080/2340",
+      "downloads": 6586,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 483,
+      "title": "Soft Neon 483",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-483/1080/2340",
+      "downloads": 6659,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 484,
+      "title": "Cherry Glow 484",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-484/1080/2340",
+      "downloads": 6732,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 485,
+      "title": "Dreamy Haze 485",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-485/1080/2340",
+      "downloads": 6805,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 486,
+      "title": "Blush Hour 486",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-486/1080/2340",
+      "downloads": 6878,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 487,
+      "title": "Pink Moon 487",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-487/1080/2340",
+      "downloads": 6951,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 488,
+      "title": "Soft Neon 488",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-488/1080/2340",
+      "downloads": 7024,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 489,
+      "title": "Cherry Glow 489",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-489/1080/2340",
+      "downloads": 7097,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 490,
+      "title": "Dreamy Haze 490",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-490/1080/2340",
+      "downloads": 7170,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 491,
+      "title": "Blush Hour 491",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-491/1080/2340",
+      "downloads": 7243,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 492,
+      "title": "Pink Moon 492",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-492/1080/2340",
+      "downloads": 7316,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 493,
+      "title": "Soft Neon 493",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-493/1080/2340",
+      "downloads": 7389,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 494,
+      "title": "Cherry Glow 494",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-494/1080/2340",
+      "downloads": 7462,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 495,
+      "title": "Dreamy Haze 495",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-495/1080/2340",
+      "downloads": 7535,
+      "isTrending": true,
+      "isNew": true
+    },
+    {
+      "id": 496,
+      "title": "Blush Hour 496",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-496/1080/2340",
+      "downloads": 7608,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 497,
+      "title": "Pink Moon 497",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-497/1080/2340",
+      "downloads": 7681,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 498,
+      "title": "Soft Neon 498",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-498/1080/2340",
+      "downloads": 7754,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 499,
+      "title": "Cherry Glow 499",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-499/1080/2340",
+      "downloads": 7827,
+      "isTrending": false,
+      "isNew": true
+    },
+    {
+      "id": 500,
+      "title": "Dreamy Haze 500",
+      "category": "Aesthetic",
+      "image": "https://picsum.photos/seed/neonify-500/1080/2340",
+      "downloads": 7900,
+      "isTrending": true,
+      "isNew": true
+    }
+  ]
+}
